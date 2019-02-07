@@ -1,0 +1,11 @@
+{
+  "name": "Web-Site",
+  "version": "1.0.0.0",
+  "description": "A test website for Roman!",
+  "main": "index.html",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/aherreDev/Web-Site.git"
+  }
+}
