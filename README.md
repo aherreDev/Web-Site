@@ -32,10 +32,10 @@ Structure.
 #### `index.html`
 * Contains the main page of the website!
 
-#### css/index.css
+#### `css/index.css`
 * Contains css stylesheet.
 
-#### js/index.js
+#### `js/index.js`
 * contains the javascript of the website.
 
 **to se more, see the `docs/documentation.txt` file!**
