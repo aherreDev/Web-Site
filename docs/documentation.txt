@@ -1,0 +1,3 @@
+this is the website or Romancito!
+here we will post all of the documentation in regards of the structure of the website!
+also, we can always use README.md instead!
