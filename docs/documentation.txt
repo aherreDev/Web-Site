@@ -1,0 +1,25 @@
+This is the website of Romancito!
+=================================
+
+Here we will post all of the documentation in regards of the structure of the website!
+also, we can always use README.md instead!
+
+package.json
+-------------
+#### This file is used by node.js to provide info about the project and to know about dependencies.
+* `"name"`
+    * This is used to know about the name of the project.
+
+* `"version"`
+    * This is used to know about the version of the project.
+
+* `"description"`
+    * This is used to know about the intentions of the project.
+* `"main"`
+    * This is to show the starting point for the project.
+
+* `"repository"`
+    * This is the information linking the repository where you have your code.
+
+* `"dependencies"`
+    * This contains all the dependencies of the project.
